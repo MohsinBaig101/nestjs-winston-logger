@@ -6,6 +6,7 @@
 [circleci-url]: https://circleci.com/gh/nestjs/nest
 
 ## Description
+I have installed the NestJS, integrated the Winston and created a custom decorator to use the Winston in any service or module effectively.
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
